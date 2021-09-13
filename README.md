@@ -1,2 +1,2 @@
-# weatherApp
+# WeatherApp
 Created with CodeSandbox
